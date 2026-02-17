@@ -11,13 +11,13 @@
                     "size": 31225
                 }
             ],
-            "hash": "878064db8a4f75a4120df5bea4a2d713a2b98513707e6ef5cb6e6e6018d35d90",
+            "hash": "e5aa9886c1feb23f9ae00a5c248755d63f929ad839c30a449f54720987f4cb6b",
             "name": "client-1.12.17.jar",
             "path": "https://github.com/runyxhosting/client/raw/refs/heads/rev-236/client-1.12.17.jar",
             "size": 5195067
         },
         {
-            "hash": "e5aa9886c1feb23f9ae00a5c248755d63f929ad839c30a449f54720987f4cb6b",
+            "hash": "cc3cc5e3c1aab5b99dbc2d4d3c85ad16a09feb3d2eb8e5f54bc77b81dea5bb86",
             "name": "http-api-1.2.21.jar",
             "path": "https://repo.runelite.net/net/runelite/arn/http-api/1.2.21/http-api-1.2.21.jar",
             "size": 42859
