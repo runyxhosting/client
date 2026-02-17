@@ -1,6 +1,6 @@
 title=Runyx
 adverturl=http://www.runescape.com/g=oldscape/bare_advert.ws
-codebase=http://127.0.0.1/
+codebase=http://40.160.34.185/
 cachedir=runyx
 storebase=0
 initial_jar=gamepack_2506588.jar

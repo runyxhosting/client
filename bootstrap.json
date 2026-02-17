@@ -11,7 +11,7 @@
                     "size": 31225
                 }
             ],
-            "hash": "ecce9efb8824070265ec896092e2ab038d089b71a5e17f419392adb90a8cda7b",
+            "hash": "d1c68157726b34cf138bae0073cd846dd07439795c25b4651bd21bf72637643c",
             "name": "client-1.12.17.jar",
             "path": "https://github.com/runyxhosting/client/raw/refs/heads/rev-236/client-1.12.17.jar",
             "size": 5195067
@@ -161,7 +161,7 @@
             "size": 238152
         },
         {
-            "hash": "120e97076b72d0ee9404a2d66e25ae4a6d674656a80569787ba70e03e669d468",
+            "hash": "785ecd7eec6507eb3f19d74aaa51423be8ca7f8159f92fd2b7e144eb96628489",
             "name": "injected-client-1.12.17.jar",
             "path": "https://github.com/runyxhosting/client/raw/refs/heads/rev-236/injected-client-1.12.17.jar",
             "size": 3985272
