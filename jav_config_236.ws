@@ -62,7 +62,7 @@ param=8=true
 param=28=https://account.jagex.com/
 param=14=0
 param=3=true
-param=9=ElZAIrq5NpLRagHtlXUh--jKkPXpOTphHdd*HiX*rzoKK3fO5XqE4w
+param=9=ElZAIrq5NpKN6D3mDdihco3oPeYN2KFy2DCquj7JMmECPmLrDP3Bnw
 param=16=false
 param=22=https://auth.runescape.com/
 param=15=0
